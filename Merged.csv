@@ -1,0 +1,317 @@
+"","Movie","Release_Date.x","Opening.Day","Opening.Weekend","Opening.Week","Lifetime","V","Year","Budget","Genre","SubGenre","Cast","Director","Production","Distributors","X","X.1","X.2","X.3","Release_Date.y","Verified.FB.Page","FB.Following","Trailer.Thumbs.Down","Trailer.Thumbs.Up","Youtube.Trailer.hits","Trailer.Date","Days.between.Releases"
+"1","1920 – Evil Returns","2012-11-02",4.05,13,"19",23,"Hit",2012,9,"Horror","","Aftab Shivdasani,Tia Bajpai,Vidya Malvade","Bhushan Patel","Vikram Bhatt","ASA Productions and Enterprises Pvt. Ltd.","",NA,NA,NA,"11/2/2012","NP",39171,351,2772,2325401,"10/1/2012",32
+"2","2 States","2014-04-18",11.75,38,"60",104,"Super-Hit",2014,36,"Rom-Com","","Alia Bhatt,Arjun Kapoor,Ronit Roy","Abhishek Varman","Dharma Productions","UTV Motion Pictures","",NA,NA,NA,"4/18/2014","Y",3487616,2528,26627,8580840,"2/27/2014",50
+"3","3G","2013-03-15",0.75,3.63,"5.75",6,"Flop",2013,5,"Horror","","Neil Nitin Mukesh,Sonal Chauhan","Sheershak Anand","","","",NA,NA,NA,"3/15/2013","NP",1002,350,1398,1230118,"1/3/2013",71
+"4","7 Khoon Maaf","2011-02-18",3.1,10.25,"14.75",19,"Flop",2011,15,"Thriller","","Priyanka Chopra,Neil Nitin Mukesh,John Abraham,Irrfan Khan,Naseeruddin Shah","Vishal Bhardwaj","","UTV Spotboy","",NA,NA,NA,"2/18/2011","N",32878,33,158,404046,"1/24/2011",25
+"5","Aarakshan","2011-08-12",4.5,18.5,"28",42,"Flop",2011,42,"Drama","","Amitabh Bachchan,Saif Ali Khan,Manoj Bajpayee,Deepika Padukone,Prateik Babbar","Prakash Jha","Base Industries Group,
+Prakash Jha Productions","Reliance Entertainment","",NA,NA,NA,"8/12/2011","NP",10043,31,277,248118,"6/24/2011",49
+"6","Aashiqui 2","2013-04-26",6,20,"38.5",85,"Super-Hit",2013,12,"Romance","","Shraddha Kapoor,Aditya Roy Kapoor","","","","",NA,NA,NA,"4/26/2013","N",2059767,707,5701,3511303,"4/13/2013",13
+"7","Aatma","2013-03-22",1.5,5.75,"8",8,"Flop",2013,8,"Horror","","Bipasha Basu,Nawazuddin Siddiqui","Suparn Verma","Wide Frame Pictures","Wide Frame Pictures","",NA,NA,NA,"3/22/2013","N",98,319,1039,877698,"2/11/2013",39
+"8","Ab Tak Chappan 2 ","2015-02-26",1.25,3.1,"",7,"--",2015,3,"Crime","","Nana Patekar,Vikram Gokhale,Mohan Agashe,Raj Zutshi,Gul Panag,Ashutosh Rana,Dilip Prabhawalkar","Aejaz Gulab","","","",NA,NA,NA,"2/26/2015","NP",1073,1143,1345,659371,"2/9/2015",17
+"9","ABCD – Any Body Can Dance","2013-02-08",5.5,18,"32",46,"Super-Hit",2013,12,"Dance","","Prabhudeva,Kay Kay Menon","Remo D'Souza","UTV Spotboy","UTV Motion Pictures","",NA,NA,NA,"2/8/2013","Y",3424681,819,10895,4182257,"11/27/2012",73
+"10","Action Jackson","2014-12-05",9.25,29," 45.75",55.25," Flop",2014,70,"Action","","Ajay Devgn,Sonakshi Sinha,Yami Gautam","Prabhu Deva","Baba Films","Eros International","",NA,NA,NA,"12/5/2014","NP",11969,3870,19295,13288387,"10/22/2014",44
+"11","Agent Vinod","2012-03-23",9.06,27.05,"38.15",44,"Average",2012,60,"Action","","Saif Ali Khan,Kareena Kapoor Khan","Sriram Raghavan","Illuminati Films,
+Eros Entertainment","Illuminati Films,
+Eros Entertainment","",NA,NA,NA,"3/23/2012","NP",4534,529,1632,1857597,"2/21/2012",31
+"12","Agneepath","2012-01-26",23,67,"91.08",123,"Super-Hit",2012,60,"Drama","","Hrithik Roshan,Sanjay Dutt,Priyanka Chopra","Karan Malhotra","Dharma Productions","Eros International","",NA,NA,NA,"1/26/2012","N",1154295,786,8074,6022500,"8/28/2011",151
+"13","Aiyyaa","2012-10-12",1.5,4.5,"6.5",8,"Flop",2012,16,"Comedy","","Rani Mukherjee","","","","",NA,NA,NA,"10/12/2012","NP",3455,145,866,493842,"9/8/2012",34
+"14","Ajab Gazabb Love","2012-10-26",1.25,4.75,"6.5",7,"Flop",2012,12,"Rom-Com","","Jacky Bhagani","Sanjay Gadhvi","","","",NA,NA,NA,"10/26/2012","NP",2936,25,219,187965,"8/16/2012",71
+"15","Alone ","2015-01-16",3.5,14,"22",22,"Flop",2015,18,"Horror","","Bipasha Basu,Karan Singh Grover","Bhushan Patel","","","",NA,NA,NA,"12/26/2014","Y",320581,2954,19008,8801439,"12/9/2014",17
+"16","Amit Sahni Ki List ","2014-07-18",0.68,3,"4",4,"Flop",2014,17,"Rom-Com","","Vir Das","","","","",NA,NA,NA,"7/18/2014","N",64227,54,588,572434,"6/14/2014",34
+"17","Aurangzeb","2013-05-17",3.9,12.8,"20",23,"Losing",2013,20,"Thriller","","Prithviraj Sukumaran,Arjun Kapoor,Sasha Agha,Rishi Kapoor,Jackie Shroff","Atul Sabharwal","","","",NA,NA,NA,"5/17/2013","N",2250,760,3442,1935263,"4/2/2013",45
+"18","B.A. Pass","2013-08-02",1.5,4.25,"6",6,"Average",2013,5.5,"Neo Noir","","Shilpa Shukla,Shadab Kamal,Rajesh Sharma,Dibyendu Bhattacharya","Ajay Bahl","Narendra Singh,Ajay Bahl","VIP Films","",NA,NA,NA,"8/2/2013","N",333595,369,897,2303754,"7/1/2013",32
+"19","Baby","2015-01-23",9.3,35.9,"63.82",95.5,"Semi Hit",2015,75,"Action / Thriller ","","Akshay Kumar,Taapsee Pannu,Rana Daggubati,Anupam Kher,Kay Kay Menon,Danny Denzongpa","Neeraj Pandey","","","",NA,NA,NA,"1/23/2015","Y",173242,29267,2432,7976757,"12/3/2014",51
+"20","Badlapur ","2015-02-20",7.12,24,"37",51,"Hit",2015,25,"Crime ","","Varun Dhawan,Nawazuddin Siddiqui,Huma Qureshi,Divya Dutta,Radhika Apte,Yami Gautam,Kumud Mishra,Vinay Pathak","Sriram Raghavan","","","",NA,NA,NA,"2/20/2015","N",3575,18976,3231,4554209,"12/1/2014",81
+"21","Badmashiyan","2015-03-06",0.12,NA,"0.54",1,"--",2015,3,"Rom-Com","","Siddhant Gupta,Suzanna Mukherjee,Karan Mehra,Sharib Hashmi,Gunjan Malhotra","Amit Khanna","","","",NA,NA,NA,"3/6/2015","N",28718,97,327,1022891,"1/28/2015",37
+"22","Bajatey Raho","2013-07-26",1.5,4.75,"7",7,"Flop",2013,10,"Comedy","","Tusshar Kapoor,Dolly Ahluwalia,Ranvir Shorey,Vinay Pathak","","","","",NA,NA,NA,"7/26/2013","NP",156,77,522,473632,"6/17/2013",39
+"23","Bang Bang","2014-10-02",27.54,94.13,"135.45",181,"Plus",2014,140,"Action","","Hrithik Roshan,Katrina Kaif,Danny Denzongpa,Javed Jaffrey,Jimmy Shergill","","","","",NA,NA,NA,"10/2/2014","NP",171515,1196,9501,15893186,"9/25/2014",7
+"24","Barfi!","2012-09-14",9.2,34.6,"58.6",120,"Super-Hit",2012,40,"Comedy / Drama","","Ranbir Kapoor,Priyanka Chopra,Ileana D'Cruz","Anurag Basu","Ishana Movies","UTV Motion Pictures","",NA,NA,NA,"9/14/2012","NP",378274,1164,10058,4243778,"7/2/2012",74
+"25","Barkhaa","2015-03-27",0.47,0.91,"0.96",1,"Flop",2015,7,"Romance","","Sara Loren,Taaha Shah,Priyanshu Chatterjee,Shweta Pandit,Puneet Issar","Shadaab Mirza","","","",NA,NA,NA,"3/27/2015","N",143,475,1747,1636643,"3/5/2015",22
+"26","Bbuddah Hoga Terra Baap","2011-07-01",2,6.75,"11.5",13,"Losing",2011,10,"Comedy ","","Amitabh Bachchan","","","","",NA,NA,NA,"7/1/2011","NP",165,8,17,23591,"6/3/2011",28
+"27","Besharam","2013-10-02",21.56,48,"55",60,"Flop",2013,85,"Comedy","","Ranbir Kapoor","Abhinav Kashyap","Movie Temple Productions","Reliance Entertainment","",NA,NA,NA,"10/2/2013","N",61496,8176,10258,5339177,"7/30/2013",64
+"28","Bewakoofiyaan","2014-03-14",2.2,7,"13",14,"Flop",2014,22,"Rom-Com","","Sonam Kapoor,Ayushmann Khurrana","","","","",NA,NA,NA,"3/14/2014","N",995,1069,4765,2851499,"2/6/2014",36
+"29","Bhaag Milkha Bhaag","2013-07-12",8.5,33.35,"53.7",104,"Hit",2013,50,"Biopic","","Farhan Akhtar","","","","",NA,NA,NA,"7/12/2013","N",1121883,471,6016,2558794,"6/30/2013",12
+"30","Bheja Fry 2","2011-06-17",2,6.5,"8",12,"Average",2011,1.5,"Comedy","","Vinay Pathak,Kay Kay Menon","Sagar Ballary","","","",NA,NA,NA,"6/17/2011","NP",2870,32,216,277660,"5/7/2011",41
+"31","Bhoot Returns","2012-10-12",1.25,3.5,"5",6,"Flop",2012,5,"Horror","","Manisha Koirala","Ram Gopal Varma","Alumbra Entertainment","Eros International","",NA,NA,NA,"10/12/2012","NP",2071,285,914,927634,"9/7/2012",35
+"32","Bhoothnath Returns","2014-04-11",3.5,16.5,"28",39,"Average",2014,34,"Comedy","","Amitabh Bachchan","","","","",NA,NA,NA,"4/11/2014","N",8826,680,10849,3210815,"2/25/2014",45
+"33","Bittoo Boss","2012-04-13",0.55,2.05,"2.15",3,"Flop",2012,6,"Rom-Com","","Pulkit Samrat,Amrita Pathak","Supavitra Babul","Wide Frame Pictures","Viacom 18","",NA,NA,NA,"4/13/2012","NP",1428,53,109,108849,"2/24/2012",49
+"34","Blood Money","2012-03-30",1.75,5.05,"7.05",9,"Flop",2012,7,"Crime","","Kunal Khemu,Amrita Puri","Vishal Mahadkar","Vikram Bhatt","Viacom 18","",NA,NA,NA,"3/30/2012","NP",39059,17,88,118573,"2/24/2012",35
+"35","Bobby Jasoos","2014-07-04",1.75,7,"10.85",11,"Flop",2014,28,"Comedy","","Vidya Balan","","","","",NA,NA,NA,"7/4/2014","Y",58371,1245,4513,3113801,"5/27/2014",38
+"36","Bodyguard","2011-08-31",21,86,"115",230,"Super-hit",2011,65,"Action","","Salman Khan,Kareena Kapoor Khan,Raj Babbar","Siddique","Reel Life Productions","Reliance Entertainment","",NA,NA,NA,"8/31/2011","NP",209128,1176,3128,2369398,"7/21/2011",41
+"37","Bol Bachchan","2012-07-06",11.4,38.5,"60.5",102,"Super-Hit",2012,70,"Comedy","","Abhishek Bachchan,Ajay Devgn","Sachin Yardi","Fox Star Studios","Ajay Devgn Films,
+Shree Ashtavinayak Cine Vision Ltd","",NA,NA,NA,"7/6/2012","N",313268,748,2605,2772046,"5/24/2012",43
+"38","Bombay Talkies","2013-05-03",1.05,5.05,"7.5",8,"Plus",2013,6,"Drama","","Rani Mukerji,Randeep Hooda,Saqib Saleem,Vineet Kumar Singh,Nawazuddin Siddiqui,Sadashiv Amrapurkar,Naman Jain,Katrina Kaif,Amitabh Bachchan","Karan Johar,
+Dibakar Banerjee,
+Zoya Akhtar,
+Anurag Kashyap","Flying Unicorn Entertainment","Viacom 18","",NA,NA,NA,"5/3/2013","N",192770,339,2834,1578668,"3/25/2013",39
+"39","Bombay Velvet","2015-05-15",5.2,16.1," 22.27",23.67,"Disaster",2015,110,"Action","","Ranbir Kapoor,Anushka Sharma,Karan Johar,Kay Kay Menon,Manish Chaudhary,Satyadeep Misra,Siddharth Basu,Vivaan Shah","Anurag Kashyap","Phantom Films","Fox STAR Studios","",NA,NA,NA,"5/15/2015","N",11233,5585,15218,6118132,"3/18/2015",58
+"40","Boss","2013-10-16",13,42.5,"49.5",54,"Flop",2013,60,"Action","","Akshay Kumar","Anthony D'Souza","Ashwin Varde Production","Cape Of Good Films,
+Viacom 18","",NA,NA,NA,"10/16/2013","N",18840,3476,23653,6813111,"8/26/2013",51
+"41","Bullett Raja","2013-11-29",7,23,"33",33,"Flop",2013,50,"Action","","Sonakshi Sinha,Saif Ali Khan","","","","",NA,NA,NA,"11/29/2013","N",168096,2146,8123,4064015,"9/30/2013",60
+"42","Byomkesh Bakshi ","2015-04-03",4.2,14," 20.00",26.68,"Average",2015,19,"Thriller","","Sushant Singh Rajput,Anand Tiwari,Swastika Mukherjee,Divya Menon,Meiyang Chang,Neeraj Kabi","Dibakar Banerjee","","","",NA,NA,NA,"4/3/2015","Y",99077,818,9357,3029567,"1/21/2015",72
+"43","Chaar Din Ki Chandni","2012-03-08",0.07,3.75,"5",5,"Flop",2012,10,"Rom-Com",""," Tusshar Kapoor,Kulraj Randhawa","Samir Karnik","Top Angle Productions","--","",NA,NA,NA,"3/8/2012","NP",906,764,218,178465,"12/1/2011",98
+"44","Chakravyuh","2012-10-24",3.6,11.5,"16",16,"Losing",2012,20,"Crime","","Arjun Rampal,Esha Gupta,Manoj Bajpayee,Kabir Bedi,Om Puri,Anjali Patil,Abhay Deol,Sameera Reddy","Prakash Jha","Prakash Jha Productions
+Eros International","Base Industries Groups","",NA,NA,NA,"10/24/2012","NP",1430,216,3032,1228851,"8/16/2012",69
+"45","Chalo Dilli","2011-04-29",1,3.75,"5.5",9,"Average",2011,5,"Comedy","","Lara Dutta,Vinay Pathak,Akshay Kumar","","","Eros International Media Ltd.","",NA,NA,NA,"4/29/2011","NP",1870,21,187,313408,"4/2/2011",27
+"46","Chashme Baddoor","2013-04-05",5.18,19,"30",40,"Hit",2013,25,"Comedy","","Ali Zafar,Siddharth,Taapsee Pannu,Divyendu Sharma","David Dhawan","Viacom 18","ShowMaker Pictures","",NA,NA,NA,"4/5/2013","N",602137,287,2932,1688641,"2/7/2013",57
+"47","Chennai Express","2013-08-09",33.1,100.35,"156.6",227,"Super-Hit",2013,75,"Comedy","","Shah Rukh Khan,Deepika Padukone","Rohit Shetty","","","",NA,NA,NA,"8/9/2013","N",270031,5275,32657,7691139,"6/13/2013",57
+"48","Citylights","2014-05-30",0.7,3.57," 06.00",8,"Plus",2014,7,"Drama","","Rajkummar Rao,Patralekha","Hansal Mehta","Vishesh Films","Fox Star Studios","",NA,NA,NA,"5/30/2014","NP",4208,84,1806,1077457,"5/1/2014",29
+"49","Cocktail","2012-07-13",10.75,35.65,"55",76,"Hit",2012,65,"Drama","","Deepika Padukone,Diana Penty,Saif Ali Khan"," Homi Adajania"," Illuminati Films","Eros International","",NA,NA,NA,"7/13/2012","NP",84554,926,8879,5299664,"5/20/2012",54
+"50","Commando","2013-04-12",3.7,11.15,"18",21,"Plus",2013,15,"Action","","Vidyut Jamwal,Pooja Chopra","Dilip Ghosh","","Reliance Entertainment","",NA,NA,NA,"4/12/2013","N",99213,577,7684,3259677,"1/25/2013",77
+"51","Creature 3D","2014-09-12",3.24,11.34,"18.18",20," Hit",2014,27,"Horror","","Bipasha Basu","","","","",NA,NA,NA,"9/12/2014","Y",147016,1541,5882,2880646,"7/16/2014",58
+"52","D Day","2013-07-19",2.9,12.9,"24",30,"Losing",2013,30,"Action","","Arjun Rampal,Shruti Haasan,Irrfan Khan,Rishi Kapoor,Huma Qureshi","Nikhil Advani","","DAR Motion Pictures,Yash Raj Films","",NA,NA,NA,"7/19/2013","N",119142,229,1843,1968198,"5/22/2013",58
+"53","Daawat-e-Ishq","2014-09-19",3.75,13.6,"20.45",24,"Losing",2014,35,"Rom-Com","","Aditya Roy Kapoor,Parineeti Chopra,Anupam Kher","","","","",NA,NA,NA,"9/19/2014","Y",376321,1374,8326,3906600,"7/7/2014",74
+"54","Dabangg 2","2012-12-21",21.1,63.6,"107.6",159,"Super-Hit",2012,60,"Action","","Salman Khan,Sonakshi Sinha","","","","",NA,NA,NA,"12/21/2012","NP",117277,6506,14451,4718948,"11/10/2012",41
+"55","Dangerous Ishhq","2012-05-11",1.01,3.08,"6",6,"Flop",2012,16,"Romance","","Karisma Kapoor","Vikram Bhatt","Reliance Entertainment
+ASA Productions and Enterprises Pvt. Ltd.","Reliance Entertainment,
+Dar Motion Pictures,
+BVG Films Present","",NA,NA,NA,"5/11/2012","N",33178,177,665,641564,"4/5/2012",36
+"56","Darr @ The Mall","2014-02-21",1,3.5,"4.5",5," Losing",2014,20,"Horror","","Jimmy Shergill","","","","",NA,NA,NA,"2/21/2014","Y",279622,68,648,251665,"1/20/2014",32
+"57","David","2013-02-01",0.7,2.5,"3.85",4,"Flop",2013,5,"Thriller","","Vikram,Neil Nitin Mukesh,Vinay Virmani,Tabu,Lara Dutta,Isha Sharvani","Bejoy Nambiar","Getaway Films","Reliance Entertainment","",NA,NA,NA,"2/1/2013","None",860644,95,1572,859324,"12/13/2012",50
+"58","Dedh Ishqiya","2014-01-10",3.75,12,"19",27," Plus",2014,30,"Drama","","Madhuri Dixit,Naseeruddin Shah,Arhsad Warsi,Huma Qureshi","","","","",NA,NA,NA,"1/10/2014","Y",793319,591,2436,2333840,"11/25/2013",46
+"59","Delhi Belly","2011-07-01",6.25,23,"37.5",54,"Plus",2011,25,"Comedy","","Imran Khan,Vir Das,Kunaal Roy Kapur","Abhinay Deo","","UTV Motion Pictures","",NA,NA,NA,"7/1/2011","NP",254239,242,1826,1768637,"6/1/2011",30
+"60","Department","2012-05-18",2.75,7.75,"11.05",12,"Flop",2012,20,"Action / Drama",""," Amitabh Bachchan,Sanjay Dutt","Ram Gopal Varma","Siddhant Oberoi,
+Amit Sharma","Viacom 18 Motion Pictures,
+Oberoi Line Productions","",NA,NA,NA,"5/18/2012","None",860644,52,538,326910,"4/5/2012",43
+"61","Desi Boyz","2011-11-25",9,28.25,"40",125,"Average",2011,65,"Comedy","","Akshay Kumar,John Abraham,Deepika Padukone,Chitrangada Singh","Rohit Dhawan","","Eros International","",NA,NA,NA,"11/25/2011","NP",150174,134,1028,885237,"10/24/2011",32
+"62","Dharam Sankat Mein ","2015-04-10",1.3,5,"10",10,"Flop",2015,16,"Comedy","","Paresh Rawal,Annu Kapoor,Naseeruddin Shah","Fuwad Khan","","","",NA,NA,NA,"4/10/2015","N",367,2493,231,1269860,"3/17/2015",24
+"63","Dhobi Ghat","2011-01-21",2.85,9,"12",14,"Plus",2011,10,"Drama","","Aamir Khan,Prateik Babbar","","","","",NA,NA,NA,"1/21/2011","NP",53998,28,474,418606,"11/19/2010",63
+"64","Dhoom 3","2013-12-20",36,107,"185.5",280,"Hit",2013,125,"Action","","Aamir Khan,Katrina Kaif,Abhishek Bachchan","Vijay Krishna Acharya","Yash Raj Films","Yash Raj Films","",NA,NA,NA,"12/20/2013","Y",4594752,10150,59555,20262919,"10/30/2013",51
+"65","Dil Dhadakne Do","2015-06-05",10.53,37.05,"   42.82*",79,"--",2015,86,"Comedy / Drama","","Anil Kapoor,Priyanka Chopra,Ranveer Singh,Anushka Sharma,Shefali Shah,Rahul Bose,Farhan Akhtar","Zoya Akhtar","Excel Entertainment,Junglee Films","","",NA,NA,NA,"6/5/2015","Y",150000,2786,19988,4657298,"4/15/2015",51
+"66","Dil Toh Baccha Hai Ji","2011-01-28",3.7,14,"20.75",28,"Average",2011,23,"Rom-Com","","Ajay Devgn,Emraan Hashmi,Omi Vaidya,Shruti Haasan","","","","",NA,NA,NA,"1/28/2011","NP",42331,5,80,167172,"11/27/2010",62
+"67","Dilliwali Zaalim Girlfriend","2015-03-20",0.6,1.75,"2.5",2.5,"Flop",2015,12,"Rom-Com","","Divyendu Sharma,Pradhuman Singh,Jackie Shroff,Ira Dubey,Prachi Mishra","Japinder Kaur","","","",NA,NA,NA,"3/20/2015","N",54733,808,4298,2321222,"2/16/2015",32
+"68","Dirty Politics","2015-03-06",1.3,3.94,"7",7,"Flop",2015,15,"Drama","","Mallika Sherawat,Jackie Shroff,Ashutosh Rana,Anupam Kher,Om Puri,Naseeruddin Shah","KC Bokadia","","","",NA,NA,NA,"3/6/2015","N",893,1040,2298,2384414,"12/21/2014",75
+"69","Dishkiyaoon","2014-03-28",1.25,3.6,"6",6,"Flop",2014,35,"Crime","","Harman Baweja,Sunny Deol","","","","",NA,NA,NA,"3/28/2014","NP",950,465,3365,2398508,"1/22/2014",65
+"70","Dolly Ki Doli","2015-01-23",2,10.3,"18.66",19,"-Flop",2015,25,"Rom-Com","","Sonam Kapoor,Pulkit Samrat,Rajkummar Rao,Varun Sharma","Abhishek Dogra","","","",NA,NA,NA,"1/23/2015","Y",83285,834,5800,2548366,"12/12/2014",42
+"71","Don 2","2011-12-23",15.3,48.55,"73",100,"Plus",2011,75,"Crime","","Shah Rukh Khan,Priyanka Chopra,Lara Dutta,Kunal Kapoor,Boman Irani,Om Puri","Farhan Akhtar","","","",NA,NA,NA,"12/23/2011","Y",2605328,12,489,78105,"10/24/2011",60
+"72","Double Dhamaal","2011-06-24",7.65,25.5,"36.5",47,"Average",2011,35,"Comedy","","Sanjay Dutt,Mallika Sherawat,Kangana Ranaut,Arshad Warsi","Indra Kumar","","","",NA,NA,NA,"6/24/2011","NP",78198,56,664,797261,"5/19/2011",36
+"73","Dum Laga Ke Haisha","2015-02-27",1.1,6,"10.65",30,"Hit",2015,13,"Rom-Com","","Ayushmann Khurrana,Bhumi Pednekar,Sanjay Mishra,Seema Pahwa,Sheeba Chaddha,Alka Amin","Sharat Katariya","","","",NA,NA,NA,"2/27/2015","Y",94280,620,8196,3259537,"2/5/2015",22
+"74","Dum Maaro Dum","2011-04-22",5,14.25,"21.5",30,"Losing",2011,35,"Crime","","Abhishek Bachchan,Bipasha Basu,Rana Daggubati,Prateik Babbar","","","","",NA,NA,NA,"4/22/2011","N",167280,5,34,39441,"4/12/2011",10
+"75","Ek Main Aur Ekk Tu","2012-02-10",5.25,21.25,"32.75",40,"Average",2012,36,"Rom-Com","","Kareena Kapoor Khan,Imran Khan","Shakun Batra","Dharma Productions","UTV Motion Pictures","",NA,NA,NA,"2/10/2012","N",736076,228,1837,1310161,"11/30/2011",72
+"76","Ek Tha Tiger","2012-08-15",32.92,116.05,"135.05",198,"Super-Hit",2012,90,"Action","","Salman Khan,Katrina Kaif","Kabir Khan","Yash Raj Films","Yash Raj Films","",NA,NA,NA,"8/15/2012","Y",4690706,2902,14124,6432763,"6/26/2012",50
+"77","Ek Thi Daayan","2013-04-19",6.24,18,"26",45,"Plus",2013,24,"Horror","","Emraan Hashmi,Huma Qureshi,Konkona Sen Sharma,Kalki Koechlin","Kannan Iyer","ALT Entertainment,
+VB Pictures","Balaji Motion Pictures","Sony Music India",NA,NA,NA,"4/19/2013","None",0,627,3327,1874808,"1/9/2013",100
+"78","Ek Villain","2014-06-27",16.72,50.7,"77.2",106,"Super-Hit",2014,36,"Thriller","","Siddharth Malhotra,Ritesh Deshmukh,Shraddha Kapoor","","","","",NA,NA,NA,"6/27/2014","N",229231,1100,13644,4525630,"5/26/2014",32
+"79","Ekk Deewana Tha","2012-02-17",0.07,2.75,"3.75",6,"Flop",2012,10,"Romance","","Prateik Babbar,Amy Jackson","Gautham Vasudev Menon","Gautham Vasudev Menon","","",NA,NA,NA,"2/17/2012","N",161845,56,764,568971,"12/23/2011",56
+"80","English Vinglish","2012-10-05",2.5,13,"20.5",40,"Hit",2012,15,"Comedy / Drama","","Sridevi","Gauri Shinde","Hope Productions","Eros International","",NA,NA,NA,"10/5/2012","NP",91872,612,6626,3204430,"8/13/2012",53
+"81","Entertainment","2014-08-08",11.16,36.69,"56.5",73,"Plus",2014,60,"Comedy","","Akshay Kumar,Mithun Chakraborty,Tamannaah Bhatia,Johnny Lever","","","","",NA,NA,NA,"8/8/2014","Y",1504695,2850,20522,6340468,"5/19/2014",81
+"82","F.A.L.T.U.","2011-04-01",4.5,10.75,"16.25",23,"Average",2011,20,"Comedy","","Arshad Warsi,Ritesh Deshmukh,Jackky Bhagnani,Puja Gupta","","","","",NA,NA,NA,"4/1/2011","Y",848482,42,182,332412,"2/8/2011",52
+"83","Ferrari Ki Sawaari","2012-06-15",3.04,14,"19.05",29,"Average",2012,10,"Comedy","","Sharman Joshi,Boman Irani","Rajesh Mapuskar","Vidhu Vinod Chopra","Vinod Chopra Productions","",NA,NA,NA,"6/15/2012","NP",6041,30,243,192934,"5/8/2012",38
+"84","Filmistaan","2014-06-06",0.51,2.81,"5",6,"Flop",2014,10,"Comedy","","Sharib Hashmi,Inaamulhaq","Nitin Kakkar","","","",NA,NA,NA,"6/6/2014","NP",815,173,1611,989821,"4/16/2014",51
+"85","Finding Fanny","2014-09-12",5.1,19.9,"28.09",36," Hit",2014,15,"Comedy","","Deepika Padukone,Arjun Kapoor,Pankaj Kapoor,Naseeruddin Shah,Dimple Kapadia","","","","",NA,NA,NA,"9/12/2014","N",48092,2752,13033,6145833,"7/8/2014",66
+"86","Force","2011-09-30",5,16,"23",26,"Average",2011,12,"Action","","John Abraham,Genelia D'Souza,Raj Babbar","Nishikanth Kamath","","","",NA,NA,NA,"9/30/2011","NP",199,22,319,329209,"8/17/2011",44
+"87","Fugly","2014-06-13",2.85,9.5,"11",12,"Flop",2014,16,"Drama","","Jimmy Shergill,Mohit Marwah,Kiara Advani,Vijender Singh","","","","",NA,NA,NA,"6/13/2014","NP",1363,556,2964,2343900,"4/7/2014",67
+"88","Fukrey","2013-06-14",2.75,9.5,"18.5",37,"Super-Hit",2013,5,"Comedy","","Pulkit Samrat,Ali Fazal,Manjot Singh,Priya Anand,Richa Chadda","Mrighdeep Singh Lamba","Excel Entertainment","","",NA,NA,NA,"6/14/2013","Y",789303,51,276,106325,"4/12/2013",63
+"89","Gabbar is Back","2015-05-01",13.05,40," 56.75",86,"Hit",2015,72,"Action","","Akshay Kumar,Shruti Haasan,Suman Talwar,Sunil Grover,Kareena Kapoor Khan Khan","Krish","Bhansali Productions","Viacom 18","",NA,NA,NA,"5/1/2015","Y",622013,1899,24104,5003859,"3/23/2015",39
+"90","Game","2011-04-01",1.25,4.5,"6",7,"Flop",2011,20,"Thriller","","Abhishek Bachchan,Kangana Ranaut,Gauhar Khan,Jimmy Shergill,Boman Irani,Anupam Kher","","","","",NA,NA,NA,"4/1/2011","NP",1799,2,25,21382,"12/9/2010",113
+"91","Gangs Of Wasseypur","2012-06-29",2.7,15.6,"17",27,"Plus",2012,9.2,"Crime","","Manoj Bajpai,Tigmanshu Dhulia,Nawazuddin Siddiqui,Reemma Sen,Huma Qureshi,Richa Chadda,Syed Zeeshan Qadri,Jaideep Ahlawat","Anurag Kashyap","Anurag Kashyap Films,
+Jar Pictures","Viacom 18","",NA,NA,NA,"6/29/2012","N",467643,165,1841,1274650,"5/10/2012",50
+"92","Gangs Of Wasseypur 2","2012-08-08",2.8,15.25,"18.5",44,"Average",2012,9.2,"Crime","","Aditya Kumar,Nawazuddin Siddiqui,Vineet Kumar Singh,Huma Qureshi,Richa Chadda,Tigmanshu Dhulia","Anurag Kashyap","Anurag Kashyap Films,
+Jar Pictures","Viacom 18","",NA,NA,NA,"8/8/2012","NP",7122,195,3418,1422334,"7/5/2012",34
+"93","Ghanchakkar","2013-06-28",7.2,22.75,"32",38,"Average",2013,30,"Comedy","","Emraan Hashmi,Vidya Balan","Rajkumar Gupta","","UTV Motion Pictures","",NA,NA,NA,"6/28/2013","NP",3546,618,5121,2296107,"3/28/2013",92
+"94","Gippi","2013-05-10",0.75,3,"4.5",5,"Average",2013,3,"Kids","","Riya Vij,Taaha Shah,Divya Dutta","Sonam Nair","","Dharma Productions","",NA,NA,NA,"5/10/2013","N",105624,577,2936,1643982,"4/1/2013",39
+"95","Go Goa Gone","2013-05-10",3.75,12.9,"20",25,"Plus",2013,18,"Comedy","","Saif Ali Khan,Vir Das,Kunal Khemu,","","","","",NA,NA,NA,"5/10/2013","N",1670,978,10229,4394971,"3/25/2013",46
+"96","Gori Tere Pyaar Mein!","2013-11-22",3.25,10,"14",14,"Flop",2013,30,"Rom-Com","","Imran Khan,Kareena Kapoor Khan","Punit Malhotra","Dharma Productions","","",NA,NA,NA,"11/22/2013","Y",548689,1878,8679,3887617,"9/9/2013",74
+"97","Grand Masti","2013-09-13",12.5,40,"67",103,"Super-Hit",2013,35,"Comedy","","Ritesh Deshmukh,Vivek Oberoi,Aftab Shivdasani,Sonalee Kulkarni,Karishma Tanna,Manjari Fadnis","Indra Kumar","","","",NA,NA,NA,"9/13/2013","N",151924,1003,4866,3397775,"7/17/2013",58
+"98","Gulaab Gang","2014-03-07",2.3,8.85,"13",14,"Flop",2014,27,"Biopic","","Juhi Chawla,Madhuri Dixit","","","","",NA,NA,NA,"3/7/2014","Y",69770,1605,13221,4688338,"1/9/2014",57
+"99","Gunday","2014-02-14",15.5,43,"57.8",77,"Plus",2014,52,"Drama","","Ranveer Singh,Priyanka Chopra,Arjun Kapoor","","","","",NA,NA,NA,"2/14/2014","Y",1266160,935,6286,2469654,"12/13/2013",63
+"100","Haider","2014-10-02",6.14,26.78,"50.07",58,"Plus",2014,24,"Drama","","Shahid Kapoor,Tabu,Shraddha Kapoor,Kay Kay Menon","Vishal Bhardwaj","UTV Motion Pictures,
+VB Pictures","UTV Motion Pictures","",NA,NA,NA,"10/2/2014","NP",39820,2447,23615,7052828,"7/8/2014",86
+"101","Happy Ending","2014-11-21",4,14.5,"20.85",21.89," Flop",2014,55,"Rom-Com","","Saif Ali Khan,Govinda,Ileana D'Cruz,Kalki Koechlin","","","","",NA,NA,NA,"11/21/2014","NP",2502,1125,6947,5194852,"10/9/2014",43
+"102","Happy New Year","2014-10-24",44.97,108.86,"157.5",203,"Plus",2014,150,"Comedy","","Shah Rukh Khan,Deepika Padukone,Abhishek Bachchan,Boman Irani,Sonu Sood,Vivaan Shah,Jackie Shroff","Farah Khan","","","T-Series",NA,NA,NA,"10/24/2014","Y",4585533,10306,37666,6402261,"8/14/2014",71
+"103","Hasee Toh Phasee","2014-02-07",4.25,16.75,"27.5",36,"Plus",2014,24,"Rom-Com","","Parineeti Chopra,Siddharth Malhotra","","","","",NA,NA,NA,"2/7/2014","Y",1045087,975,6394,2545152,"12/13/2013",56
+"104","Hate Story","2012-04-20",2,6.08,"11",14,"Flop",2012,16,"Thriller","","Nikhil Dwivedi,Gulshan Devaiya,Paoli Dam","Vivek Agnihotri","BVG Films","ASA Productions and Enterprises","",NA,NA,NA,"4/20/2012","NP",10838,958,2763,4502389,"3/16/2012",35
+"105","Hate Story 2","2014-07-18",5.25,16,"25.6",21,"Plus",2014,15,"Thriller","","Sushant Singh,Surveen Chawla,Jay Bhanushali","Vishal Pandya","","T-Series Film","",NA,NA,NA,"7/18/2014","Y",938280,5236,15731,13801339,"6/5/2014",43
+"106","Haunted","2011-05-06",2.25,8.5,"13.5",27,"Plus",2011,9.5,"Horror","","Mahaakshay Chakraborty,Twinkle Bajpai","","","","",NA,NA,NA,"5/6/2011","NP",5989,4,49,120582,"4/7/2011",29
+"107","Hawaa Hawaai","2014-05-09",0.85,4,"7.7",10,"Average",2014,15,"Kids","","Partho Gupte,Saqib Saleem","Amole Gupte","Amole Gupte Cinema","Fox Star Studios","",NA,NA,NA,"5/9/2014","N",42855,95,1377,765138,"4/2/2014",37
+"108","Hawaizaada","2015-01-30",0.57,2," 03.00",3,"Disaster",2015,25,"Drama","Period","Ayushmann Khurrana,Pallavi Sharda","Vibhu Puri","","","",NA,NA,NA,"1/30/2015","NP",7875,539,2618,2370530,"12/23/2014",38
+"109","Heroine","2012-09-21",7.2,25,"36.5",44,"Plus",2012,23,"Drama","","Kareena Kapoor Khan,Arjun Rampal","Madhur Bhandarkar","Bhandarkar Entertainment","UTV Motion Pictures","",NA,NA,NA,"9/21/2012","N",8524,1940,7282,5200978,"7/25/2012",58
+"110","Heropanti","2014-05-23",6.5,21,"36",55,"Hit",2014,25,"Action","","Tiger Shroff,Kriti Sanon","Sabbir Khan","Nadiadwala Grandson Entertainment","UTV Motion Pictures","T-Series",NA,NA,NA,"5/23/2014","Y",1825350,1815,8195,4009133,"4/4/2014",49
+"111","Hey Bro","2015-03-06",0.25,NA,"1.06",1,"Flop",2015,25,"Comedy","","Ganesh Acharya,Maninder Singh,Nupur Sharma,Hanif Hilal,Indira Krishnan,Prem Chopra","Ajay Chandhok","","","",NA,NA,NA,"3/6/2015","N",843,703,2062,1150768,"1/15/2015",50
+"112","Highway","2014-02-21",3.75,13.5," 21.00",27,"Average",2014,32,"Drama","","Alia Bhatt,Randeep Hooda","","","","",NA,NA,NA,"2/21/2014","Y",1017738,9107,971,3045478,"12/16/2013",67
+"113","Himmatwala","2013-03-29",11.3,31,"45",93,"Losing",2013,50,"Action","","Ajay Devgn,Tamannaah Bhatia,Paresh Rawal","Sajid Khan","Pooja Entertainment","UTV Motion Pictures","",NA,NA,NA,"3/29/2013","NP",3518,0,0,2535303,"1/24/2013",64
+"114","Holiday","2014-06-06",12,41,"68",113,"Hit",2014,50,"Action","","Akshay Kumar,Sonakshi Sinha","","","","",NA,NA,NA,"6/6/2014","Y",1944071,1997,14184,6842265,"2/12/2014",114
+"115","Horror Story","2013-09-13",0.7,2,"5",5,"Flop",2013,5,"Horror","","Karan Kundra,Nishant Malkani,Ravish Desai,Hasan Zaidi","Ayush Raina","","ASA Productions and Enterprises Pvt. Ltd.","",NA,NA,NA,"9/13/2013","N",135734,395,1902,1057824,"8/21/2013",23
+"116","Housefull 2","2012-04-06",14,42,"63",114,"Super-Hit",2012,50,"Comedy","","Sajid Khan","Nadiadwala Grandson Entertainment","Nadiadwala Grandson Entertainment","Eros International","",NA,NA,NA,"4/6/2012","NP",230090,694,3390,2683798,"2/9/2012",57
+"117","Hum Tum Shabana","2011-09-30",0.4,1.5,"2",2,"Flop",2011,25,"Rom-Com","","Tusshar Kapoor,Shreyas Talpade,Minissha Lamba","","","","",NA,NA,NA,"9/30/2011","NP",1378,4,64,144443,"8/11/2011",50
+"118","Humpty Sharma Ki Dulhania","2014-07-11",9,33.74,"53.3",77,"Hit",2014,29,"Rom-Com","","Alia Bhatt,Varun Dhawan","","","","",NA,NA,NA,"7/11/2014","Y",2954464,2209,14542,6607695,"5/25/2014",47
+"119","Humshakals","2014-06-20",12.5,40.13,"56.35",64,"Flop",2014,70,"Comedy","","Saif Ali Khan,Ritesh Deshmukh","Sajid Khan","","","",NA,NA,NA,"6/20/2014","Y",647310,0,0,6281364,"4/30/2014",51
+"120","Hunterr","2015-03-20",1.6,5.1,"10",13.5,"Average",2015,13.4,"Adult Comedy","","Gulshan Devaiah,Radhika Apte,Sai Tamhankar,Veera Saxena,Sagar Deshmukh","Harshavardhan Kulkarni","","","",NA,NA,NA,"3/20/2015","Y",110327,788,3759,4690757,"1/15/2015",64
+"121","I Me Aur Main","2013-03-01",1.5,5.4,"8",9,"Flop",2013,20,"Rom-Com","","John Abraham,Prachi Desai,Chitrangada Singh","Kapil Sharma","","Reliance Entertainment","",NA,NA,NA,"3/1/2013","NP",1425,800,2603,2046390,"1/28/2013",32
+"122","Inkaar","2013-01-18",1.65,5.8,"8.5",9,"Flop",2013,32,"Drama","","Arjun Rampal,Chitrangada Singh","Sudhir Mishra","Viacom18","Viacom18,Tipping Point Films","",NA,NA,NA,"1/18/2013","N",89554,116,904,1098134,"12/14/2012",35
+"123","Ishaqzaade","2012-05-11",4.06,15.95,"25.75",45,"Hit",2012,15,"Romance","","Parineeti Chopra,Arjun Kapoor","Habib Faisal","Yash Raj Films","Yash Raj Films","",NA,NA,NA,"5/11/2012","NP",970077,164,1441,908390,"3/15/2012",57
+"124","Issaq","2013-07-26",1,3,"5",5,"Flop",2013,15,"Romance","","Prateik Babbar,Amyra Dastur","Manish Tiwary","Pen India Pvt. Ltd","","",NA,NA,NA,"7/26/2013","N",190273,19,88,78059,"6/11/2013",45
+"125","Jab Tak Hai Jaan","2012-11-13",15,81,"98",121,"Super-Hit",2012,60,"Romance","","Shah Rukh Khan,Katrina Kaif,Anushka Sharma","","","","",NA,NA,NA,"11/13/2012","Y",4488762,4870,41297,8728822,"9/20/2012",54
+"126","Jackpot","2013-12-13",1.1,3,"4",4," Flop",2013,8,"Crime","","Sunny Leone,Naseeruddin Shah, Sachiin J Joshi","Kaizad Gustad","Viiking Media & Entertainment","","",NA,NA,NA,"12/13/2013","NP",726,76,269,292309,"11/12/2013",31
+"127","Jai Ho","2014-01-24",17.5,58.5,"87.75",111,"Plus",2014,111,"Action","","Salman Khan","","","","",NA,NA,NA,"1/24/2014","N",239,407,2787,871709,"12/15/2013",40
+"128","Jannat 2","2012-05-04",8.05,23.05,"35.01",42,"Hit",2012,28,"Drama","","Emraan Hashmi,Esha Gupta,Randeep Hooda","Kunal Deshmukh","Fox Star Studios","Vishesh Films","",NA,NA,NA,"5/4/2012","N",1384128,160,1620,1092694,"4/3/2012",31
+"129","Jayantabhai Ki Luv Story","2013-02-15",0.5,2.5,"4",4,"Flop",2013,6,"Comedy","","Vivek Oberoi,Neha Sharma","Vinnil Markan","Kumar S. Taurani","Tips Music Films","",NA,NA,NA,"2/15/2013","NP",2984,166,1242,1059886,"1/11/2013",35
+"130","Jism 2","2012-08-03",7.5,20,"27.5",34,"Plus",2012,7," Thriller","","Sunny Leone,Randeep Hooda","Pooja Bhatt","Clockwork Films Private Limited","Fish Eye Network Pvt. Ltd.,
+Vishesh Films","",NA,NA,NA,"8/3/2012","N",21256,219,448,1014416,"7/20/2012",14
+"131","Jodi Breakers","2012-02-24",1.05,6,"8.05",10,"Flop",2012,21,"Rom-Com","","Bipasha Basu,R Madhavan","Ashwini Chaudhary","Rajesh Rajilal","Prasar Visions Pvt. Ltd.","",NA,NA,NA,"2/24/2012","N",5097,20,255,173701,"1/4/2012",51
+"132","John Day","2013-09-13",0.45,1.5,"2.5",3," Flop",2013,17,"Action","","Naseeruddin Shah,Randeep Hooda","Ahishor Solomon","","","",NA,NA,NA,"9/13/2013","N",45519,203,865,1232529,"7/27/2013",48
+"133","Joker","2012-08-31",4.6,15,"20",20,"Flop",2012,50,"Comedy","","Akshay Kumar,Sonakshi Sinha,Minissha Lamba","Shirish Kunder","Three's Company","Hari Om Entertainment,
+UTV Motion Pictures","",NA,NA,NA,"8/31/2012","NP",29,3720,5037,3230731,"7/11/2012",51
+"134","Jolly LLB","2013-03-15",3.12,12.51,"19.5",32,"Super-Hit",2013,10,"Comedy","","Arshad Warsi","","","","",NA,NA,NA,"3/15/2013","N",5130,183,3073,1776598,"1/8/2013",66
+"135","Kaanchi","2014-04-25",0.85,3,"4",4,"Flop",2014,35,"Romance","","Mishti,Karthik Aryan","Subhash Ghai","Mukta Arts","","",NA,NA,NA,"4/25/2014","None",0,2808,595,2361680,"3/6/2014",50
+"136","Kahaani","2012-03-09",2.07,13.05,"23",59,"Super-Hit",2012,8,"Thriller","","Vidya Balan","Sujoy Ghosh","Sujoy Ghosh","Viacom 18","",NA,NA,NA,"3/9/2012","N",488093,124,286,625337,"1/5/2012",64
+"137","Kai Po Che!","2013-02-22",4.5,18,"29.35",64,"Hit",2013,30,"Drama","","Sushant Singh Rajput,Asif Basra,Amit Sadh,Rajkummar Rao","Abhishek Kapoor","UTV Motion Pictures","UTV Motion Pictures","",NA,NA,NA,"2/22/2013","NP",14565,519,5734,1923886,"12/20/2012",64
+"138","Kamaal Dhamaal Malamaal","2012-09-28",1.25,4.15,"5.6",8,"Flop",2012,15,"Comedy","","Nana Patekar,Paresh Rawal,Om Puri,Shreyas Talpade","Priyadarshan","Percept Picture Company","--","",NA,NA,NA,"9/28/2012","NP",806,81,191,96545,"8/17/2012",42
+"139","Karle Pyaar Karle","2014-01-17",0.3,1,"1",1,"Flop",2014,18,"Romance","","Shiv Darshan,Hasleen Kaur","","","","",NA,NA,NA,"1/17/2014","N",38102,128,298,502877,"12/27/2013",21
+"140","Khamoshiyan ","2015-01-30",1.92,6.67,"11.3",14,"Average",2015,11,"Horror","","Ali Fazal,Gurmeet Choudhary,Sapna Pabbi","Karan Dara","","","",NA,NA,NA,"1/30/2015","NP",15416,1010,4641,3100238,"12/11/2014",50
+"141","Khiladi 786","2012-12-07",10.3,34.1,"51.5",70,"Plus",2012,35,"Action","","Akshay Kumar,Asin","","","","",NA,NA,NA,"12/7/2012","NP",12530,2720,6725,3533002,"11/12/2012",25
+"142","Khoobsurat","2014-09-19",2.75,11.25,"19",26,"Hit",2014,25.47,"Rom-Com","","Sonam Kapoor,Fawad Khan","","","","",NA,NA,NA,"9/19/2014","NP",64295,2042,12361,5495318,"7/21/2014",60
+"143","Kick","2014-07-25",26,83.5,"164",233,"Hit",2014,100,"Action","","Salman Khan,Jacquline Fernandez","","","","",NA,NA,NA,"7/25/2014","Y",3290155,10110,101784,18992158,"6/15/2014",40
+"144","Kill Dil","2014-11-14",6.85,20,"29",31.15,"Flop",2014,44,"Drama","","Ranveer Singh,Ali Zafar,Govinda,Parineeti Chopra","","","","",NA,NA,NA,"11/14/2014","Y",152809,1306,8311,3396755,"9/17/2014",58
+"145","Kismet Love Paisa Dilli","2012-10-05",1,3.1,"3.1",4,"Flop",2012,10,"Comedy","","Vivek Oberoi,Mallika Sherawat","Sanjay Khanduri","--","--","",NA,NA,NA,"10/5/2012","NP",275,76,180,146712,"8/29/2012",37
+"146","Krrish 3","2013-10-31",24.25,68,"164.5",241,"Hit",2013,115,"Action / Sci -Fi","","Hrithik Roshan,Priyanka Chopra,Kangana Ranaut","","","","",NA,NA,NA,"10/31/2013","Y",3788072,12119,72763,23767666,"8/5/2013",87
+"147","Kuch Kuch Locha Hain","2015-05-08",0.75,3," 04.00",4,"Flop",2015,16,"Comedy","","Ranbir Kapoor,Anushka Sharma,Karan Johar,Kay Kay Menon,Manish Chaudhary,Satyadeep Misra,Siddharth Basu,Vivaan Shah","Anurag Kashyap","","","",NA,NA,NA,"5/8/2015","NP",4044,2798,8500,5014508,"3/30/2015",39
+"148","Kya Dilli Kya Lahore","2014-05-02",0.08,0.5,"0.5",1,"Flop",2014,6,"Drama","War","Vijay Raaz,Manu Rishi,Raj Zutshi","Vijay Raaz","Picture Thoughts Production","Wave Cinemas","",NA,NA,NA,"5/2/2014","N",195290,64,2020,492849,"4/2/2014",30
+"149","Kyaa Super Kool Hain Hum","2012-07-27",6.9,22,"33",45,"Plus",2012,13,"Adult Comedy","","Tusshar Kapoor,Ritesh Deshmukh,Sarah Jane Dias,Neha Sharma,Anupam Kher,Chunky Pandey","Sachin Yardi","ALT Entertainment,
+Balaji Motion Pictures","Eros International","",NA,NA,NA,"7/27/2012","N",359,60,443,300093,"4/2/2012",116
+"150","Ladies Vs Ricky Bahl","2011-12-09",4.75,16.75,"25",37,"Plus",2011,20,"Rom-Com","","Ranveer Singh,Parineeti Chopra,Anushka Sharma,Dipannita Sharma,Aditi Sharma","","","Yash Raj Films","",NA,NA,NA,"12/9/2011","NP",311120,240,1469,1502301,"11/9/2011",30
+"151","Leela ","2015-04-10",5.3,15.85," 24.00",26.57,"Average",2015,18,"Thriller","","Sunny Leone,Jay Bhanushali,Rajneesh Duggal,Rahul Dev,Mohit Ahlawat,Jas Arora","Bobby Khan","","","",NA,NA,NA,"4/10/2015","N",140013,7026,24744,16207624,"2/5/2015",64
+"152","Lekar Hum Deewana Dil","2014-07-04",0.5,1.5,"2.5",3," Flop",2014,16,"Rom-Com",""," Armaan Jain,Deeksha Seth","","","","",NA,NA,NA,"7/4/2014","NP",1434,498,2309,3999397,"5/7/2014",58
+"153","London Paris New York","2012-03-02",1,3.75,"6.12",9,"Flop",2012,7,"Rom-Com","","Ali Zafar,Aditi Rao Hydari","Anu Menon","Goldie Behl","Fox Star Studios","",NA,NA,NA,"3/2/2012","NP",7925,117,1503,752987,"1/13/2012",49
+"154","Lootera","2013-07-05",5.15,19,"27",31,"Average",2013,27,"Drama","","Sonakshi Sinha,Ranveer Singh","","","","",NA,NA,NA,"7/5/2013","N",243834,828,4444,2607950,"3/15/2013",112
+"155","Love Breakups Zindagi","2011-10-07",0.35,1.25,"2",2,"Flop",2011,10,"Rom-Com","","Zayed Khan,Dia Mirza","Sahil Sangha","Born Free Entertainment","","",NA,NA,NA,"10/7/2011","NP",5217,22,390,311210,"8/16/2011",52
+"156","Luv Ka The End","2011-05-06",0.6,2.35,"4",5,"Losing",2011,12,"Rom-Com","","Shraddha Kapoor","Bumpy","","Y-Films","",NA,NA,NA,"5/6/2011","NP",77669,149,484,580133,"3/30/2011",37
+"157","Luv Shuv Tey Chicken Khurana","2012-11-02",1.25,5.5,"8",8,"Losing",2012,3,"Comedy","","Kunal Kapoor,Huma Qureshi","Sameer Sharma","Anurag Kashyap Films,
+Jar Pictures,
+UTV Spotboy","UTV Motion Pictures","",NA,NA,NA,"11/2/2012","NP",2024,131,930,756023,"9/13/2012",50
+"158","Madras Cafe","2013-08-23",4.9,21,"34",45,"Plus",2013,35,"Drama","","John Abraham","","","","",NA,NA,NA,"8/23/2013","N",350820,604,3051,1437733,"7/12/2013",42
+"159","Main Tera Hero","2014-04-04",6.25,21,"36",55,"Plus",2014,39,"Rom-Com","","Varun Dhawan,Ileana D'Cruz,Nargis Fakhri","","","","",NA,NA,NA,"4/4/2014","Y",1410747,2140,12665,4907206,"1/23/2014",71
+"160","Manjunath","2014-05-09",0.25,1," 01.75",2,"Flop",2014,3,"Drama","","Vijay Raaz,Manu Rishi,Raj Zutshi","Janaki Vishwanathan","","Shruthikkaa Films","",NA,NA,NA,"5/9/2014","N",19235,35,991,370304,"4/1/2014",38
+"161","Mardaani","2014-08-22",3.75,14.5,"23",36,"Hit",2014,14,"Thriller","","Rani Mukherjee","","","","",NA,NA,NA,"8/22/2014","Y",258423,1036,14450,4379649,"6/24/2014",59
+"162","Margarita With a Straw","2015-04-17",0.5,2.12," 03.28",4,"--",2015,0.54,"Drama","","Kalki Koechlin,Revathi,Sayani Gupta,Kuljeet Singh,Malhar Khushu,William Moseley","Shonali Bose,Nilesh Maniyar","","","",NA,NA,NA,"4/17/2015","Y",38383,108,2228,594322,"3/4/2015",44
+"163","Mary Kom","2014-09-05",8.4,30.6," 46.00",64," Hit",2014,15,"Biopic","","Priyanka Chopra","","","","",NA,NA,NA,"9/5/2014","Y",289814,1648,26604,6088430,"7/23/2014",44
+"164","Mastram","2014-05-09",0.75,2,"3",3,"Flop",2014,0.5,"Drama","","Kapil Dubey,Harshith D,Rahul Bagga,Tara Alisha","Akhilesh Jaiswal","Bohra Bros Productions,Jar Productions","","",NA,NA,NA,"5/9/2014","Y",54870,1365,3929,3563295,"2/14/2014",84
+"165","Matru Ki Bijlee Ka Mandola","2013-01-11",7.02,22.4,"33.15",42,"Plus",2013,45,"Comedy / Drama","","Anushka Sharma,Imran Khan,Pankaj Kapoor","","","","",NA,NA,NA,"1/11/2013","N",419720,652,4337,2466509,"10/14/2012",89
+"166","Mausam","2011-09-23",6.75,21,"28",41,"Losing",2011,40,"Romance","","Shahid Kapoor,Sonam Kapoor","","","Eros International Media Ltd.","",NA,NA,NA,"9/23/2011","NP",7274,139,1912,1528602,"7/12/2011",73
+"167","Mere Brother Ki Dulhan","2011-09-09",7.35,26,"37",95,"Plus",2011,29,"Rom-Com","","Imran Khan,Katrina Kaif,Ali Zafar,Tara D’Souza","Ali Abbas Zafar","","","",NA,NA,NA,"9/9/2011","N",1514833,318,2328,2065953,"7/12/2011",59
+"168","Mere Dad Ki Maruti","2013-03-15",1.3,4.5,"8",13,"Average",2013,5,"Comedy","","Saqib Saleem,Rhea Chakraborty,Ram Kapoor","Ashima Chibber","Y-Films","Yash Raj Films","",NA,NA,NA,"3/15/2013","NP",3189,135,1246,584611,"11/11/2012",124
+"169","Mickey Virus","2013-10-25",1.5,5,"7",7,"Losing",2013,11,"Comedy",""," Manish Paul,Elli Avram","","","","",NA,NA,NA,"10/25/2013","N",1022,130,531,203020,"9/20/2013",35
+"170","Miss Lovely","2014-01-17",0.2,0.7,"0.7",1,"Flop",2014,4.5,"Drama","","Nawazuddin Siddiqui,Niharika Singh,Menaka Lalwani","","","","",NA,NA,NA,"1/17/2014","NP",386,95,330,813181,"5/27/2014",-130
+"171","Mr Joe B. Carvalho","2014-01-03",0.65,2," 04.00",4,"Flop",2014,15,"Comedy","","Arshad Warsi,Soha Ali Khan,Javed Jaffrey,Vijay Raaz","Samir Tewari","","B.R Entertainment","",NA,NA,NA,"1/3/2014","N",41197,43,497,911317,"11/25/2013",39
+"172","Mr X ","2015-04-17",4.5,13.99," 22.75",24.79,"Flop",2015,39,"Thriller","","Emraan Hashmi,Amyra Dastur,Arunoday Singh,Tanmay Bhatt","Vikram Bhatt","","","",NA,NA,NA,"4/17/2015","NP",11617,152,717,461828,"3/9/2015",39
+"173","MSG","2015-02-13",2,10,"20",27,"--",2015,20,"Religious","","Gurmeet Ram Rahim Singh Ji Insan,Jayshree Soni,Flora Asha Saini,Gaurav Gera","Jeetu Arora Insan,Gurmeet Ram Rahim Singh Ji Insan","","","",NA,NA,NA,"2/13/2015","Y",125361,11168,41815,3271100,"12/18/2014",57
+"174","Mujhse Fraaandship Karoge","2011-10-14",0.5,2.15,"3.5",32,"Plus",2011,8,"Rom-Com","","Saqib Saleem,Saba Azad,Nishant Dahiya,Tara D’Souza","Nupur Asthana","","","",NA,NA,NA,"10/14/2011","NP",8814,69,686,360192,"9/6/2011",38
+"175","Murder 2","2011-07-08",6.5,22.5,"35.5",46,"Super-hit",2011,10,"Thriller","","Emraan Hashmi,Jacqueline Fernandez","Mohit Suri","Vishesh Films","Vishesh Films,
+T series","",NA,NA,NA,"7/8/2011","N",2374250,6,45,50310,"6/1/2011",37
+"176","Murder 3","2013-02-15",4.52,13.31,"20.86",21,"Super-Hit",2013,12,"Thriller","","Randeep Hooda,Aditi Rao Hydari,Sara Loren","Vishesh Bhatt","Fox Star Studios","Fox Star Studios","",NA,NA,NA,"2/15/2013","N",1951,760,1927,2297673,"1/7/2013",39
+"177","Nasha","2013-07-26",1.1,3,"5",8,"Flop",2013,10,"Drama","","Poonam Pandey","","","","",NA,NA,NA,"7/26/2013","N",187027,198,304,662499,"7/13/2013",13
+"178","Nautanki Saala","2013-04-12",3.25,13.25,"17.85",21,"Plus",2013,16,"Rom-Com","","Ayushmann Khurrana,Kunaal Roy Kapur,Pooja Salvi,Gaelyn Mendonca,Evelyn Sharma,Sanjeev Bhatt","Rohan Sippy","","","",NA,NA,NA,"4/12/2013","N",512971,344,1444,1217386,"2/6/2013",65
+"179","NH 10","2015-03-13",3.35,13.3,"20.5",32.1,"Hit",2015,23,"Thriller","","Anushka Sharma,Neil Bhoopalam,Darshan Kumaar,Deepti Naval","Navdeep Singh","","","",NA,NA,NA,"3/13/2015","NP",9330,1532,15525,5600719,"2/5/2015",36
+"180","No One Killed Jessica","2011-01-07",3.1,12.5,"19",29,"Plus",2011,10,"Biopic","Crime","Rani Mukherjee,Vidya Balan","","","","",NA,NA,NA,"1/7/2011","NP",35478,61,894,1247853,"11/17/2010",51
+"181","O Teri","2014-03-28",0.75,2.4,"3.75",3.75,"Flop",2014,16,"Comedy","","Pulkit Samrat,Bilal Amrohi,Sarah Jane Dias,Mandira Bedi","Umesh Bist","Reel Life Productions","","",NA,NA,NA,"3/28/2014","Y",320050,278,3003,1511883,"1/23/2014",64
+"182","OMG Oh My God!","2012-09-28",4,16.6,"36",82,"Super-Hit",2012,20,"Comedy / Drama","","Akshay Kumar,Paresh Rawal","Umesh Shukla","Grazing Goat Pictures","Viacom 18","",NA,NA,NA,"9/28/2012","N",155683,207,1405,1010293,"8/16/2012",43
+"183","Once Upon A Time In Mumbaai Dobaara!","2013-08-15",11.5,41,"54.25",65,"Losing",2013,32,"Drama","","Ajay Devgn,Emraan Hashmi,Kangana Ranaut,Prachi Desai,Randeep Hooda","Milan Luthria","Ekta Kapoor","Balaji Motion Pictures","",NA,NA,NA,"8/15/2013","N",1436183,2835,9264,3122932,"5/28/2013",79
+"184","One By Two","2014-01-31",0.5,1.75,"2.5",3,"Flop",2014,15,"Rom-Com","","Abhay Deol,Preeti Desai","","","","",NA,NA,NA,"1/31/2014","Y",81058,212,1082,1017884,"12/18/2013",44
+"185","Paan Singh Tomar","2012-03-02",0.75,4.01,"7",15,"Hit",2012,4.5,"Drama","","Irrfan Khan","","","","",NA,NA,NA,"3/2/2012","N",24610,22,603,446421,"2/7/2012",24
+"186","Patiala House","2011-02-11",4.5,15.5,"24",32,"Flop",2011,26,"Sports ","","Akshay Kumar,Anushka Sharma,Rishi Kapoor","Nikhil Advani","","T-Series","",NA,NA,NA,"2/11/2011","NP",226617,60,233,436618,"12/23/2010",50
+"187","Phata Poster Nikhla Hero","2013-09-20",6,22,"32",38,"Flop",2013,40,"Comedy / Action","","Shahid Kapoor","","","","",NA,NA,NA,"9/20/2013","N",69478,1411,10797,5262921,"7/14/2013",68
+"188","Piku","2015-05-08",5.32,25.22," 41.40",79,"Hit",2015,35,"Drama","","Amitabh Bachchan,Deepika Padukone,Irrfan Khan,Moushumi Chatterjee","Shoojit Sircar","MSM Motion Pictures,
+Saraswati Entertainment,Creations Limited,
+Rising Sun Films","Yash Raj Films","",NA,NA,NA,"5/8/2015","Y",303547,1530,18980,5521602,"4/13/2015",25
+"189","Pizza 3D","2014-07-18",0.75,3,"4.35",4,"Flop",2014,15,"Horror",""," Akshay Oberoi,Parvathy Omanakuttan,Dipannita Sharma","","","","",NA,NA,NA,"7/18/2014","None",0,159,1135,839923,"5/22/2014",57
+"190","Players","2012-01-06",4.69,14.98,"21.75",29,"Flop",2012,45,"Crime","","Abhishek Bachchan,Sonam Kapoor,Bipasha Basu,Neil Nitin Mukesh,Bobby Deol","Abbas-Mustan","Viacom 18","Viacom 18","",NA,NA,NA,"1/6/2012","N",380141,236,618,814656,"11/3/2011",64
+"191","Policegiri","2013-07-05",2.5,8,"14",16,"Flop",2013,25,"Comedy","","Sanjay Dutt,Prakash Raj,Prachi Desai","K.S. Ravikumar","","","",NA,NA,NA,"7/5/2013","N",146680,437,1743,1815639,"5/28/2013",38
+"192","Prague","2013-09-27",0.1,0.8," 00.90",1,"Flop",2013,2,"Drama","","Chandan Roy Sanyal,Elena Kazan","Ashish R Shukla","","","",NA,NA,NA,"9/27/2013","NP",25,13,19,34520,"12/4/2013",-68
+"193","Purani Jeans","2014-05-02",0.35,1,"1",1,"Flop",2014,15,"Rom-Com","","Tanuj Virwani,Aditya Seal,Izabelle Leite","Tanushri Chattrji Bassu","","Eros International","",NA,NA,NA,"5/2/2014","NP",2879,229,825,1538011,"3/20/2014",43
+"194","Pyaar Ka Punchnama","2011-05-20",1.1,3.25,"5.5",11,"Plus",2011,7,"Comedy / Drama","","Kartik Tiwari,Raayo S Bakhirta,Divyendu Sharma","Luv Ranjan","","","",NA,NA,NA,"5/20/2011","Y",245351,4,240,232531,"4/14/2011",36
+"195","Queen","2014-03-07",1.75,9.55,"18.3",61,"Super-Hit",2014,12.5,"Comedy","","Kangana Ranaut,Lisa Haydon","","","","",NA,NA,NA,"3/7/2014","Y",646154,5371,442,2928984,"12/20/2013",77
+"196","R… Rajkumar","2013-12-06",9.5,29," 47.00",64," Plus",2013,40,"Action","","Shahid Kapoor,Sonakshi Sinha","Prabhu Deva","Next Gen Films","Eros International","",NA,NA,NA,"12/6/2013","NP",18770,2819,60161,6150177,"10/1/2013",66
+"197","Ra.One","2011-10-26",18,91.1,"103.25",161,"Plus",2011,135,"Action / Sci Fi","","Shah Rukh Khan,Arjun Rampal,Kareena Kapoor Khan","Anubhav Sinha","Red Chillies Entertainment","Eros International Ltd.,
+Red Chillies Entertainment","",NA,NA,NA,"10/26/2011","NP",675021,381,1480,1654446,"10/13/2011",13
+"198","Raanjhanaa","2013-06-21",5.15,19.9,"34",63,"Plus",2013,35,"Romance","","Dhanush,Sonam Kapoor,Abhay Deol","","","","",NA,NA,NA,"6/21/2013","NP",88314,1033,12586,5559246,"4/23/2013",59
+"199","Raaz 3","2012-09-07",10.5,35,"55",70,"Super-Hit",2012,25,"Horror","","Emraan Hashmi,Bipasha Basu,Esha Gupta","Vikram Bhatt","Vishesh Films","Fox Star Studios","",NA,NA,NA,"9/7/2012","N",546483,709,3592,3407955,"7/31/2012",38
+"200","Race 2","2013-01-25",15.1,51.3,"75.5",102,"Plus",2013,60,"Action","","Anil Kapoor,Saif Ali Khan,Deepika Padukone,John Abraham,Jacqueline Fernandez,Ameesha Patel","Abbas-Mustan","","UTV Motion Pictures","",NA,NA,NA,"1/25/2013","NP",85216,2179,12940,7865048,"11/12/2012",74
+"201","Ragini MMS","2011-05-13",1.25,4.25,"7",9,"Hit",2011,1.3,"Horror","","Rajkummar Rao,Kainaz Motivala","Pawan Kripalani","","","",NA,NA,NA,"5/13/2011","NP",31591,41,15,75492,"4/21/2011",22
+"202","Ragini MMS 2","2014-03-21",8.45,24,"38.5",47,"Super-Hit",2014,18,"Horror","","Sunny Leone","","","","",NA,NA,NA,"3/21/2014","N",857257,2719,6813,5421650,"2/2/2014",47
+"203","Raja Natwarlal","2014-08-29",5.75,17," 26.00",30," Losing",2014,35,"Thriller","","Emraan Hashmi,Paresh Rawal,Kay Kay Menon","","","","",NA,NA,NA,"8/29/2014","NP",8775,1157,8218,4051325,"7/18/2014",42
+"204","Rajjo","2013-11-15",0.5,1.5,"2",2,"Flop",2013,12,"Drama","","Kangana Ranaut","Vishwas Patil","","","",NA,NA,NA,"11/15/2013","N",127636,1088,1617,1737162,"9/26/2013",50
+"205","Ramaiya Vastavaiya","2013-07-19",3.5,14.7,"26",31,"Losing",2013,30,"Rom-Com","","Girish Kumar,Shruti Haasan","Prabhu Deva","Tips Industries Limited","Tips Films","",NA,NA,NA,"7/19/2013","N",170193,710,4290,3910410,"4/25/2013",85
+"206","Ramleela","2013-11-15",15.85,52.6,"82",110,"Super-Hit",2013,35,"Romance","","Ranveer Singh,Deepika Padukone","","","","",NA,NA,NA,"11/15/2013","N",40177,4419,22137,9724764,"9/16/2013",60
+"207","Rang Rasiya","2014-11-07",0.7,2.5," 05.00",5," Flop",2014,12,"Drama","Period","Randeep Hooda,Nandana Sen","Ketan Mehta","","","",NA,NA,NA,"11/7/2014","Y",38151,175,730,1129472,"9/25/2014",43
+"208","Rangrezz","2013-03-21",1,4,"6",6,"Flop",2013,15,"Drama","","Jackky Bhagnani,Priya Anand,Rajpal Yadav","Priyadarshan","Pooja Entertainment","","",NA,NA,NA,"3/21/2013","NP",1646,70,171,319084,"2/4/2013",45
+"209","Rascals","2011-10-06",7.5,22.75,"30",35,"Flop",2011,45,"Comedy","","Ajay Devgn,Sanjay Dutt,Kangana Ranaut,Lisa Haydon,Arjun Rampal","David Dhawan","","Eros Entertainment","",NA,NA,NA,"10/6/2011","NP",55617,47,220,362317,"8/10/2011",57
+"210","Ready","2011-06-03",13,42.5,"69",120,"Super-hit",2011,40,"Action","","Salman Khan","Anees Bazmee","","Sohail Khan Productions,
+Eros International","",NA,NA,NA,"6/3/2011","NP",176167,303,1528,1839961,"4/14/2011",50
+"211","Revolver Rani","2014-04-25",1.9,6,"10",10,"Flop",2014,26,"Drama","","Kangana Ranaut,Vir Das,Piyush Mishra,Zakir Hussain","Sai Kabir","","","",NA,NA,NA,"4/25/2014","Y",120009,394,3013,1745467,"3/5/2014",51
+"212","Roar","2014-10-31",1.7,5,"    08.00",8.3," Average",2014,7,"Action","","Abhinav Shukla,Himarsha Venkatsamy,Achint Kaur,Subrat Dutta,Nora Fatehi,Ali Quli Mirza,Aadil Chahal,Varinder Singh,Ghuman","Kamal Sadanah","","","",NA,NA,NA,"10/31/2014","Y",314003,78,522,282946,"7/31/2014",92
+"213","Rockstar","2011-11-11",11,35,"51",108,"Hit",2011,60,"Drama","","Ranbir Kapoor,Nargis Fakhri","Imtiaz Ali","Shree Ashtavinayak Cine Vision Ltd","Eros International","",NA,NA,NA,"11/11/2011","NP",26112,367,3146,1986285,"8/30/2011",73
+"214","Rowdy Rathore","2012-06-01",15.01,48.05,"79.52",131,"Super-Hit",2012,45,"Action","","Akshay Kumar,Sonakshi Sinha","Prabhu Deva","SLB Films","UTV Motion Pictures","",NA,NA,NA,"6/1/2012","NP",388221,1655,5407,3519138,"4/2/2012",60
+"215","Roy ","2015-02-13",10.4,28.68," 41.77",45,"Flop",2015,40,"Thriller","","Arjun Rampal,Jacqueline Fernandez,Ranbir Kapoor","Vikramjit Singh","","","",NA,NA,NA,"2/13/2015","Y",157896,3239,19013,7690714,"12/16/2014",59
+"216","Rush","2012-10-26",0.6,2.5,"3.5",4,"Flop",2012,30,"Thriller","","Emraan Hashmi,Neha Dhupia","Shamin Desai
+Priyanka Desai","Showman International","Percept Pictures","T-Series",NA,NA,NA,"10/26/2012","NP",471,44,241,182595,"9/28/2012",28
+"217","Saheb Biwi Aur Gangster","2011-09-30",1,3.5,"5.25",20,"Plus",2011,4,"Thriller","","Jimmy Shergill,Mahi Gill,Randeep Hooda","Tigmanshu Dhulia","","","",NA,NA,NA,"9/30/2011","N",1654,0,5,6298,"3/29/2012",-181
+"218","Saheb Biwi Aur Gangster Returns","2013-03-08",3.5,12.75,"18.25",19,"Plus",2013,15,"Drama","","Jimmy Shergill,Mahi Gill,Irrfan Khan,Soha Ali Khan","Tigmanshu Dhulia","Brandsmith Motion Pictures,
+Viacom 18","ShowMaker Pictures","",NA,NA,NA,"3/8/2013","NP",1150,190,1042,1200536,"1/31/2013",36
+"219","Samrat & Co.","2014-04-25",0.25,1,"2",2,"Flop",2014,15,"Crime",""," Rajeev Khandelwal","","","","",NA,NA,NA,"4/25/2014","NP",1675,180,531,371613,"3/18/2014",38
+"220","Satya 2","2013-11-08",0.4,1.5," 02.00",2,"Flop",2013,15,"Crime","","Puneet Singh Ratn","Ram Gopal Varma","","","",NA,NA,NA,"11/8/2013","N",109740,27,90,115355,"9/30/2013",39
+"221","Satyagraha","2013-08-30",11,39,"55",68,"Average",2013,50,"Drama","","Amitabh Bachchan,Kareena Kapoor Khan,Ajay Devgn","","","","",NA,NA,NA,"8/30/2013","N",6396,399,2754,1437733,"6/26/2013",65
+"222","Shaadi Ke Side Effects","2014-02-28",5.4,21.5," 31.00",34,"Average",2014,43,"Rom-Com","","Farhan Akhtar,Vidya Balan","","","","",NA,NA,NA,"2/28/2014","N",12075,1466,9028,4593905,"10/28/2013",123
+"223","Shahid","2013-10-18",0.3,1.75,"3.2",4,"Flop",2013,6.35,"Biopic","","Rajkummar Rao,Tigmanshu Dhulia,K K Menon","Hansal Mehta","UTV Spot Boy","UTV Motion Pictures","",NA,NA,NA,"10/18/2013","None",0,414,3217,1203294,"9/20/2013",28
+"224","Shaitan","2011-06-10",1,3.5,"5",8,"Losing",2011,11,"Thriller","","Rajit Kapoor,Rajeev Khandelwal,Kalki Koechlin,Pawan Malhotra","Bejoy Nambiar","","","",NA,NA,NA,"6/10/2011","NP",23860,41,279,383720,"4/20/2011",51
+"225","Shamitabh ","2015-01-30",3.5,13.25,"19",22,"Flop",2015,45,"Drama","","Amitabh Bachchan,Dhanush,Akshara","Amitabh Bachchan,Dhanush","","","",NA,NA,NA,"1/30/2015","NP",2152,1270,12292,2105208,"1/6/2015",24
+"226","Shanghai","2012-06-08",3,12.2,"17.05",22,"Losing",2012,20,"Drama","","Abhay Deol,Emraan Hashmi,Kalki Koechlin,Prosenjit Chatterjee","Dibakar Banerjee","studio green","PVR Pictures","",NA,NA,NA,"6/8/2012","N",123887,58,1134,547862,"4/6/2012",63
+"227","Shirin Farhad Ki Toh Nikal Padi","2012-08-24",3,6,"9.1",11,"Average",2012,12,"Rom-Com","","Farah Khan,Boman Irani","Bela Bhansali Sehgal","SLB Films","Bhansali Productions,
+Eros International","",NA,NA,NA,"8/24/2012","NP",1438,217,1288,837831,"5/29/2012",87
+"228","Sholay 3D","2014-01-03",1.5,6.3," 11.00",11,"Losing",2014,20,"Drama","","Amitabh Bachchan,Dharmendra","","","","",NA,NA,NA,"1/3/2014","N",67386,288,2119,1009039,"11/7/2013",57
+"229","Shootout At Wadala","2013-05-03",10.1,30.8,"45.8",62,"Hit",2013,48,"Action / Drama","","John Abraham,Anil Kapoor,Kangana Ranaut,Sonu Sood,Manoj Bajpai,Ronit Roy,Mahesh Manjrekar,Tusshar Kapoor","","","","",NA,NA,NA,"5/3/2013","N",669085,147,900,843763,"1/27/2013",96
+"230","Shor In The City","2011-04-29",0.4,2,"3",4,"Losing",2011,3,"Crime","","Sendhil Ramamurthy,Preeti Desai,Tusshar Kapoor","Raj Nidimoru","","Balaji Motion Pictures","",NA,NA,NA,"4/29/2011","NP",7466,1,35,65126,"3/29/2011",31
+"231","Shuddh Desi Romance","2013-09-06",6.45,23,"37",47,"Plus",2013,30,"Rom-Com","","Sushant Singh Rajput,Parineeti Chopra,Vaani Kapoor","","","","",NA,NA,NA,"9/6/2013","N",803,1019,5617,3725485,"7/11/2013",57
+"232","Singh Saab The Great","2013-11-22",5.5,16.25,"24",36," Average",2013,32,"Drama","","Sunny Deol","Anil Sharma","","","",NA,NA,NA,"11/22/2013","NP",16743,108,901,245441,"10/28/2013",25
+"233","Singham","2011-07-22",9,30.5,"50",100,"Super-hit",2011,20,"Action","","Ajay Devgn","","","","",NA,NA,NA,"7/22/2011","NP",510094,502,4006,3334539,"6/3/2011",49
+"234","Singham Returns","2014-08-15",32,77.55,"112",141," Plus",2014,88,"Action","","Salman Khan,Sonakshi Sinha","","","","",NA,NA,NA,"8/15/2014","NP",15044,2908,20049,8290039,"7/11/2014",35
+"235","Son Of Sardaar","2012-11-13",10,64.05,"83",105,"Hit",2012,55,"Comedy","","Ajay Devgn,Sonakshi Sinha","","","","",NA,NA,NA,"11/13/2012","Y",262272,51,127,49596,"7/19/2012",117
+"236","Special Chabbis (26)","2013-02-08",6.5,25.75,"44",70,"Plus",2013,26,"Thriller","","Akshay Kumar,Anupam Kher,Jimmy Shergill,Manoj Bajpai","Neeraj Pandey","Friday Filmworks","Viacom 18","",NA,NA,NA,"2/8/2013","NP",36058,576,6292,1859738,"12/20/2012",50
+"237","Speedy Singhs","2011-09-23",0.6,2,"3",4,"Flop",2011,25,"Sports","","Vinay Virmani,Camilla Belle,Anupam Kher","","","","",NA,NA,NA,"9/23/2011","NP",2952,82,1732,1001584,"8/18/2011",36
+"238","Student Of The Year","2012-10-19",9,28.5,"47",70,"Super-Hit",2012,45,"Drama","","Siddharth Malhotra,Varun Dhawan,Alia Bhatt","Karan Johar","Dharma Productions,
+Red Chillies Entertainment","Dharma Productions (India),
+Eros Entertainment (International)[2]","",NA,NA,NA,"10/19/2012","N",3680889,2967,6009,4520945,"8/2/2012",78
+"239","Super Nani","2014-10-31",0.45,1.5," 05.00",5," Flop",2014,8,"Comedy","","Rekha,Sharman Joshi,Randhir Kapoor,Anupam Kher","Indra Kumar","","","",NA,NA,NA,"10/31/2014","Y",58430,282,1574,875773,"9/19/2014",42
+"240","Table no. 21","2013-01-04",1.5,6,"9.5",15,"Average",2013,12,"Thriller","","Paresh Rawal,Rajeev Khandelwal,Tena Desae","Aditya Datt","Next Gen Films","Eros International","",NA,NA,NA,"1/4/2013","NP",10547,147,1180,1167853,"11/22/2012",43
+"241","Talaash","2012-11-30",14,48,"68",93,"Hit",2012,40,"Thriller","","Aamir Khan,Rani Mukherjee,Kareena Kapoor Khan","","","","",NA,NA,NA,"11/30/2012","Y",427834,1779,6700,3795554,"9/13/2012",78
+"242","Tanu Weds Manu","2011-02-25",3.25,11.25,"18.55",38,"Hit",2011,15,"Rom-Com","","Kangana Ranaut,R Madhavan","","","","",NA,NA,NA,"2/25/2011","N",168758,9,55,165350,"12/24/2010",63
+"243","Tanu Weds Manu Returns","2015-05-22",8.85,38.1,"70",171.05,"Blockbuster",2015,30,"Comedy / Drama","","Kangana Ranaut,R. Madhavan,Jimmy Shergill,Deepak Dobriyal","Aanand L. Rai","Colour Yellow Pictures","Eros International","",NA,NA,NA,"5/22/2015","Y",379000,1387,24290,7748874,"4/14/2015",38
+"244","Tere Naal Love Ho Gaya","2012-02-24",1.75,7.05,"12.05",22,"Plus",2012,10,"Rom-Com","","Reitesh Deshmukh,Genelia D'Souza","Mandeep Kumar","Kumar S. Taurani","","",NA,NA,NA,"2/24/2012","NP",63736,123,1505,1213496,"12/22/2011",64
+"245","Teri Meri Kahaani","2012-06-22",5,16,"23",28,"Flop",2012,30,"Romance","","Shahid Kapoor,Priyanka Chopra","Kunal Kohli","Kunal Kohli Productions","Nadiadwala Grandson Entertainment,
+Eros International","",NA,NA,NA,"6/22/2012","NP",31469,705,4810,2496887,"4/5/2012",78
+"246","Tevar ","2015-01-09",7.05,22.05,"35",39,"Flop",2015,60,"Action","","Arjun Kapoor,Sonakshi Sinha,Raj Babbar,Manoj Bajpai","Amit Sharma","","","",NA,NA,NA,"1/16/2015","NP",5065,1739,11273,6137326,"11/10/2014",67
+"247","Tezz","2012-04-27",3.05,11,"15.08",35,"Flop",2012,40,"Drama","","Anil Kapoor,Kangana Ranaut,Zayed Khan,Mallika Sherawat,Sameera Reddy,Boman Irani,Ajay Devgn","Priyadarshan","Ratan Jain","United 7 Entertainment,
+Eros Entertainment","",NA,NA,NA,"4/27/2012","NP",31500,321,2372,2527689,"1/4/2012",114
+"248","Thank You","2011-04-08",4.85,17.75,"24",46,"Flop",2011,58,"Comedy","","Akshay Kumar,Sunil Shetty,Sonam Kapoor,Bobby Deol,Rimi Sen,Celina Jaitley,Irrfan Khan","Anees Bazmee","","","",NA,NA,NA,"4/8/2011","NP",1744,128,623,1117064,"2/25/2011",42
+"249","The Attacks Of 26/11","2013-03-01",1.45,5.5,"8",12,"Flop",2013,30,"Drama","","Nana Patekar,Sanjeev Jaiswal","Ram Gopal Varma","","Eros International","",NA,NA,NA,"3/1/2013","NP",398,354,1946,1081140,"1/17/2013",43
+"250","The Dirty Picture","2011-12-02",9.35,31.36,"52.5",118,"Super-hit",2011,18,"Drama","","Vidya Balan,Naseeruddin Shah,Tusshar Kapoor,Emraan Hashmi","Milan Luthria","","ALT Entertainment,
+Balaji Motion Pictures","",NA,NA,NA,"12/2/2011","NP",463479,226,1084,2257031,"8/30/2011",94
+"251","The Lunchbox","2013-09-20",1.25,7,"11",22,"Hit",2013,10,"Drama","","Irrfan Khan","Ritesh Batra","DAR Motion Pictures,
+UTV Motion Pictures,
+Dharma Productions
+Sikhya,Entertainment
+NFDC","","",NA,NA,NA,"9/20/2013","N",14135,288,4092,1082453,"8/14/2013",37
+"252","The Shaukeens","2014-11-07",5,18,"28",32.36,"  Average",2014,42,"Comedy","","Anupam Kher,Annu Kapoor,Piyush Mishra,Lisa Haydon","Abhishek Sharma","","","",NA,NA,NA,"11/7/2014","Y",94707,560,4374,2375495,"9/27/2014",41
+"253","The Xpose","2014-05-16",2.5,9.75,"16.65",18,"Average",2014,15,"Thriller","","Himesh Reshammiya,Zoya Afroz,Sonali Raut,Honey Singh","Anant Mahadevan","","HR Musik Limited","",NA,NA,NA,"5/16/2014","Y",664183,1293,3514,3708362,"4/2/2014",44
+"254","Total Siyapaa","2014-03-07",1.05,3.85,"5.7",6,"Flop",2014,17,"Comedy","","Ali Zafar,Yami Gautam","","","","",NA,NA,NA,"3/7/2014","NP",3577,555,3675,1759798,"11/25/2013",102
+"255","Ugly","2014-12-26",0.4,1.65,"2",14,"Hit",2014,4.5,"Thriller","","Rahul Bhat,Ronit Roy"," Anurag Kashyap","Phantom Films","DAR Motion Pictures","",NA,NA,NA,"12/19/2014","Y",53773,325,3423,1806929,"12/15/2014",4
+"256","Ungli","2014-11-28",3.6,12.65,"19",19," Flop",2014,15,"Crime","","Emraan Hashmi,Randeep Hooda,Kangana Ranaut,Neha Dhupia, Sanjay Dutt","Rensil D'Silva","Dharma Productions","AA Films","",NA,NA,NA,"11/28/2014","Y",100826,492,6919,2746986,"9/29/2014",60
+"257","Vicky Donor","2012-04-20",1.08,7.65,"13",65,"Super-Hit",2012,5,"Comedy","","Ayushmann Khurrana,Yami Gautam,Annu Kapoor","Shoojit Sircar","Rising Sun Films","John Abraham Entertainment,
+Eros Entertainment","",NA,NA,NA,"4/20/2012","NP",88089,247,3448,2086366,"3/8/2012",43
+"258","War Chhod Na Yaar","2013-10-11",1.4,5," 06.75",7,"Flop",2013,14,"Comedy","","Sharman Joshi,Soha Ali Khan,Javed Jaffrey","Faraz Haider","","","",NA,NA,NA,"10/11/2013","N",27962,179,894,307298,"9/19/2013",22
+"259","Warning 3D","2013-09-27",0.8,3," 03.00",3,"Flop",2013,5,"Action","","Santosh Barmola,Suzana Rodrigues,Manjari Fadnis,Varun Sharma","Gurmmeet Singh","Anubhav Sinha","Eros International,
+Alumbra Entertainment,
+Benaras Media Works","",NA,NA,NA,"9/27/2013","None",81,224,1518,307298,"8/21/2013",37
+"260","Welcome To Karachi","2015-05-28",1.68,5.4," 08.00",8,"Flop",2015,20,"Comedy","","Arshad Warsi,Jackky Bhagnani,Lauren Gottlieb,Dalip Tahil","Ashish R Mohan","Puja Entertainment","AA Films","",NA,NA,NA,"5/28/2015","N",6567,1077,11015,4239070,"4/13/2015",45
+"261","Yaariyan","2014-01-10",6,19,"31.5",40,"Super-Hit",2014,19,"Comedy","","Himansh Kohli,Rakul Preet,Nicole Faria,Dev Sharma","Divya Khosla Kumar","Bhushan Kumar & Krishan Kumar","","",NA,NA,NA,"1/10/2014","Y",3147064,767,4852,3331807,"10/30/2013",72
+"262","Yamla Pagla Deewana","2011-01-14",7.75,23,"34",55,"Hit",2011,20,"Comedy","","Sunny Deol,Bobby Deol,Dharmendra","","","","",NA,NA,NA,"1/14/2011","N",146693,9,118,215922,"12/15/2010",30
+"263","Yamla Pagla Deewana 2","2013-06-07",7.1,23,"35",37,"Average",2013,20,"Comedy","","Sunny Deol,Bobby Deol,Dharmendra","Sangeeth Sivan","Dharmendra","Sunny Sounds Pvt. Ltd.
+YPD Films Ltd UK","",NA,NA,NA,"6/7/2013","N",3001,684,5460,2785551,"3/27/2013",72
+"264","Yeh Hai Bakrapur","2014-05-09",0.2,1,"2",2,"Flop",2014,3,"Comedy","","Anshuman Jha,Asif Basra,Suruchi Aulakh","","","","",NA,NA,NA,"5/9/2014","Y",36847,924,758,1257546,"3/2/2014",68
+"265","Yeh Jawaani Hai Deewani","2013-05-31",19.45,62.11,"107.61",190,"Super-Hit",2013,70,"Comedy / Drama","","Ranbir Kapoor,Deepika Padukone,Kalki Koechlin,Aditya Roy Kapoor","Ayan Mukerji","Dharma Productions","UTV Motion Pictures","",NA,NA,NA,"5/31/2013","N",2053316,1664,14230,5265692,"3/19/2013",73
+"266","Yeh Saali Zindagi","2011-02-04",1.1,4.5,"7.5",12,"Average",2011,8,"Thriller","","Irrfan Khan,Arunoday Singh,Chitrangada Singh,Aditi Rao Hydari","Sudhir Mishra","Prakash Jha","","",NA,NA,NA,"2/4/2011","N",30302,9,9,13146,"2/8/2011",-4
+"267","Youngistaan","2014-03-28",1.1,4.05,"6.75",7,"Flop",2014,23,"Comedy / Drama","","Jackky Bhagnani,Neha Sharma,Farooq Sheikh","Syed Ahmad Afzal","","","",NA,NA,NA,"3/28/2014","NP",36047,177,1085,604598,"1/31/2014",56
+"268","Zanjeer","2013-09-06",3.5,10,"15",15,"Flop",2013,60,"Action","","Priyanka Chopra","","","","",NA,NA,NA,"9/6/2013","N",12426,81,462,329080,"7/4/2013",64
+"269","Zed Plus","2014-11-28",0.12,0.4,"0.4",0.47," Flop",2014,5,"Drama",""," Mona Singh,Mukesh Tiwari,Kulbhushan Kharbanda,Sanjay Mishra,Shivani Tanksale","Chandra Prakash Dwivedi","","","",NA,NA,NA,"11/28/2014","Y",45389,69,660,528520,"10/29/2014",30
+"270","Zid","2014-11-28",2.82,8.6," 14.00",14," Flop",2014,15,"Thriller","","Karanvir Sharma,Mannara,Shraddha Das","Vivek Agnihotri","Benaras Media Works","","",NA,NA,NA,"11/28/2014","Y",59909,62,186,258195,"11/21/2014",7
+"271","Zila Ghaziabad","2013-02-22",3.5,10,"16",16,"Flop",2013,36,"Thriller","","Sanjay Dutt,Arshad Warsi,Vivek Oberoi","Anand Kumar","Soundrya Production","Showman International","",NA,NA,NA,"2/22/2013","NP",1193,621,1763,1566604,"1/10/2013",43
+"272","Zindagi Na Milegi Dobara","2011-07-15",7.5,27,"44",90,"Plus",2011,55,"Comedy / Drama","","Hrithik Roshan,Abhay Deol,Farhan Akhtar,Katrina Kaif,Kalki Koechlin","Zoya Akhtar","Excel Entertainment","Eros International","",NA,NA,NA,"7/15/2011","Y",2464050,82,801,650952,"5/31/2011",45
